@@ -16,9 +16,9 @@ A clone of the Google Keep. The main goal of the project is to practice front-en
 - **UI Library:** Material-UI
 - **State Management:** Redux
 - **Routing:** React Router
-- **Search Engine:** Fuse.js
-- **HTTP Requests:** axios
-- **Mock Backend:** json-server
+- **Search Engine:** Fuse
+- **HTTP Requests:** Axios
+- **Mock Backend:** Json-Server
 
 ## Installing
 - Clone the repository
