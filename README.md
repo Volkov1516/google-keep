@@ -1,30 +1,27 @@
-# NOTES
+# GOOGLE KEEP
 
 ## Description
-A copy of the Google Keep application.
+A clone of the Google Keep. The main goal of the project is to practice front-end development.
 
 ## Features
-- Create, update and delete notes
-- Archive
-- Labels
-- Color notes
-- Layouts (list and table)
-- Search
+- Create, edit and delete notes
+- Assign colors to notes
+- Add and manage labels
+- Archive and restore notes
+- Switch between list and grid layouts
+- Search notes by content or label
 
 ## Technologies
-- HTML/CSS
-- JavaScipt
-- React (hooks)
-- Redux
-- Material UI
-- Fuse.js
-- react-router
-- axios
-- uuid
-- json-server
+- **Frontend:** HTML, CSS, JavaScript, React
+- **UI Library:** Material-UI
+- **State Management:** Redux
+- **Routing:** React Router
+- **Search Engine:** Fuse.js
+- **HTTP Requests:** axios
+- **Mock Backend:** json-server
 
 ## Installing
-- Copy the repository
+- Clone the repository
 - Install dependencies `npm install`
-- Run the JSON server `json-server --watch ./src/db.json --port 3001`
+- Start the mock backend `json-server --watch ./src/db.json --port 3001`
 - Run the project `npm start`
